@@ -1,0 +1,23 @@
+{
+  "name": "nodejs.heroku",
+  "version": "1.0.0",
+  "description": "Simple Node js project for test deploy on heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniy-logvinov/nodejs.heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniy-logvinov/nodejs.heroku/issues"
+  },
+  "homepage": "https://github.com/evgeniy-logvinov/nodejs.heroku#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
